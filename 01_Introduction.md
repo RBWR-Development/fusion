@@ -1,6 +1,6 @@
 # Nuclear Fusion Game
 
-This game aims around realistic approach to nuclear fusion reaction. The main concepts of the game are base mostly on ITER and DEMO reactor designs. These areactor are not functioning yet in real life but the Fusion game depicts a theoretical thermonuclear plant with 6 GW energy output.
+This game aims around realistic approach to nuclear fusion reaction. The main concepts of the game are base mostly on ITER and DEMO reactor designs. These reactors are not functioning yet in real life but the Fusion game depicts a theoretical thermonuclear plant with 6 GW energy output.
 Whiele the main concepts are present in the game all the systems were simplified to fit a more cooperation oriented gameplay rather than to simulate real life operations exactly. 
 
 In this game users are expected to run the tokamak to generate thermal energy which then can be stored and used to power up to four turbines to generate electricity. Economical system is implemented where money earned via selling energy can be spent on buying fuel, plant upgrades, maintenance or salaries to gain points.
